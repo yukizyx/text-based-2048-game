@@ -11,7 +11,13 @@
 - Date: April, 2021
 
 ## Table of Contents
-
+- [Text-based 2048 Game](#text-based-2048-game)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Design Overview](#design-overview)
+  - [Likely Changes](#likely-changes)
+  - [Module Interface Specification](#module-interface-specification)
+  - [Critique of Design](#critique-of-design)
 
 ## Description
 
