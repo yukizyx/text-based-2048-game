@@ -58,7 +58,7 @@ of typed input in the future, we only need to modify the converter and make it c
 
 *This Module Interface Specification (MIS) document contains modules, types and methods for implementing the game 2048.*
 
-![MIS](./MIS.pdf)
+Read the [MIS document](./MIS.pdf).
 
 ## Critique of Design
 
