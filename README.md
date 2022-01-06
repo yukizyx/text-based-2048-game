@@ -6,7 +6,7 @@
 - Keyword: 
   - Object-oriented Design
   - Module Interface Specification (MIS)
-  - Design pattern: Module View Specification (MVC)
+  - Design pattern: Module View Controller (MVC)
   - Design principles
 - Date: April, 2021
 
@@ -28,7 +28,7 @@ player has no legal moves (there are no empty spaces and no adjacent tiles with 
 
 ## Design Overview
 
-This design applies Module View Specification (MVC) design pattern.
+This design applies Model View Controller (MVC) design pattern.
 
 `BoardT` is the model module as it encapsulates the game data as well as the operations on the data. It stores the game board, game status and user marks, and modifies these
 data based on the operations (`MoveT`).
